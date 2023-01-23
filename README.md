@@ -17,15 +17,18 @@
   <p> You can find me in: </p>
 <div>
 
-<a href="https://www.instagram.com/horiyutaka/" rel="external">
-  <figure>
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram Profile" width="40" height="40"></a>
-  </figure>
-<a href="https://www.linkedin.com/in/andr%C3%A9s-yutaka-ohno-hori-4900553a/" rel="external">
-  <figure>
+<figure>
+  <a href="https://www.instagram.com/horiyutaka/" rel="external">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram Profile" width="40" height="40">
+  </a>
+</figure>
+
+<figure>
+  <a href="https://www.linkedin.com/in/andr%C3%A9s-yutaka-ohno-hori-4900553a/" rel="external">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkdIn" width="40" height="40">
-  </figure>
-</a>
+  </a>
+</figure>
+
 
 
 <!--
