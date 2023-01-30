@@ -24,7 +24,7 @@
 </figure>
 
 <figure>
-  <a href="https://www.linkedin.com/in/andrés-yutaka-ohno-hori" rel="external">
+  <a href="https://www.linkedin.com/in/hori-yutaka" rel="external">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkdIn" width="40" height="40">
   </a>
 </figure>
