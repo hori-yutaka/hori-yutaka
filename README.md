@@ -3,7 +3,7 @@
 ### :wave: G'day Mate!
 
 <div>
-  <p> My name is <strong>Yutaka Hori</strong> and I am a Web Programmer, currently living in Montevideo, Uruguay !</p>
+  <p> My name is <strong>Yutaka Hori</strong> and I am a Programmer Analyst, currently living in Montevideo, Uruguay !</p>
 <div>
 <br>
 
