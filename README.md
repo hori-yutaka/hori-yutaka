@@ -3,13 +3,7 @@
 ### :wave: G'day Mate!
 
 <div>
-  <p> My name is <strong>Yutaka Hori</strong> and I am a Programmer Analyst, currently living in Montevideo, Uruguay !</p>
-<div>
-<br>
-
-<div>
-  <p> Currently Studying:</p>
-  <p> <a href="https://fi.ort.edu.uy/analista-en-tecnologias-de-la-informacion" rel="external">Information Technology Analyst</a> - <a href="https://www.ort.edu.uy/" rel="external">Universidad ORT</a></p>
+  <p> My name is <strong>Yutaka Hori</strong> and I am a Information Technology Analyst, currently living in Montevideo, Uruguay !</p>
 <div>
 <br>
 
