@@ -1,27 +1,30 @@
 [![Visits Badge](https://badges.strrl.dev/visits/hori-yutaka/hori-yutaka)](https://badges.strrl.dev)
 
-### :wave: G'day Mate!
+### <h2>👋 Welcome, curious coder!</h2>
 
-<div>
-  <p> My name is <strong>Yutaka Hori</strong> and I am a Information Technology Analyst, currently living in Montevideo, Uruguay !</p>
-<div>
-<br>
+<p>
+  I'm an <strong>Information Technology Analyst</strong> by training, a <strong>Project Manager</strong> by profession, and a low-key 
+  <strong>code enthusiast</strong> after hours — especially when the coffee kicks in ☕🦉.
+</p>
 
-<div>
-  <p> You can find me in: </p>
-<div>
+<p>
+  By day, I coordinate teams, tame deadlines, and sit through just the right amount of meetings. 
+  By night, I dive into side projects, explore new tech, and occasionally win the eternal battle 
+  against semicolons and indentation.
+</p>
 
-<figure>
-  <a href="https://www.instagram.com/horiyutaka/" rel="external">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram Profile" width="40" height="40">
-  </a>
-</figure>
+<p>
+  This repository is one of those side quests — a space where I experiment, learn, build, and sometimes 
+  pretend I didn’t just spend three hours debugging a missing bracket.
+</p>
 
-<figure>
-  <a href="https://www.linkedin.com/in/hori-yutaka" rel="external">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkdIn" width="40" height="40">
-  </a>
-</figure>
+<p>
+  <em>Built with curiosity, caffeine, and a healthy respect for the undo button.</em>  
+</p>
+
+<p>
+  Feel free to explore, fork, or star the project. Contributions are always welcome — as long as they come with good vibes and clear commit messages.
+</p>
 
 
 
